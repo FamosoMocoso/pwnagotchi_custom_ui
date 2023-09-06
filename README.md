@@ -4,7 +4,7 @@ This repositry contains the files necessary to change the UI for pwnagotchi + wa
 Changes apply to hardware display and webUI.
 
 ## Example
-(https://github.com/FamosoMocoso/pwnagotchi_custom_ui/blob/main/example/pwnagotchi_custom-ui_wavshare3.jpg?raw=true)
+![](https://github.com/FamosoMocoso/pwnagotchi_custom_ui/blob/main/example/pwnagotchi_custom-ui_wavshare3.jpg?raw=true)
 
 ## How to Use
 Download the files from this repository and transfer them to your pwnagotchi as follows:
