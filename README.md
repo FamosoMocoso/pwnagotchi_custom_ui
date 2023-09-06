@@ -19,3 +19,7 @@ cp waveshare3.py /usr/local/lib/python3.7/pwnagotchi/ui/hw
 
 ## Bonus
 Some costum faces in `custom-faces_config.toml`.
+
+## Honourable Mentions
+- ![hanadiamond for the age-strengh plugin](https://github.com/hannadiamond/pwnagotchi-plugins/blob/main/plugins/age.py)
+- ![GaelicThunder for the exp plugin](https://github.com/GaelicThunder/Experience-Plugin-Pwnagotchi)
